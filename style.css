@@ -1,0 +1,51 @@
+
+
+
+    body{
+        
+        background-color: rgb(0, 255, 200);
+    }
+        header{
+            float: right;
+            
+         
+        }
+
+    .center{
+        text-align: center;
+    }
+
+.text{
+    text-align: justify;
+}
+.whatsapp-link{
+    position:fixed;
+    width:60px ;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+   z-index: 1000; 
+}
+.fa-whatsapp{
+    margin-top: 16px;
+}
+.loading-screen{
+ position: fixed;
+ right: 40px;
+ bottom: 120px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+ 
+   
+}
+.linha{
+padding: 1px;;
+}
